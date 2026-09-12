@@ -34,7 +34,7 @@
 | Media | Nom | Description | Lien |
 | :---: | :--- | :--- | :--- |
 | <a href="assets/woob2k.png"><img src="assets/woob2k.png" width="60"></a> | **Woob2K** | Une **activité discord/jeu web** fait en 3d.  | Projet Privé (pour l'instant) |
-| <a>Aucun Media</a> | **Bot Modulable** | Un bot modulable... Rien de| [Repo](https://github.com/liloulap66/Bot-Modulable) |
+| <a>Aucun Media</a> | **Bot Modulable** | Un bot modulable... Rien de plus | [Repo](https://github.com/liloulap66/Bot-Modulable) |
 
 
 ## 🛠️ Tech Stack & Tools
