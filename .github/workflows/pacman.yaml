@@ -23,7 +23,7 @@ jobs:
       - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: jattu8602
+          github_user_name: liloulap
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
