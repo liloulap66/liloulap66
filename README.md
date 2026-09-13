@@ -12,7 +12,7 @@
 
 
 <div align="left">
-      <img src="https://komarev.com/ghpvc/?username=liloulap66&label=Profile%20views&color=0e75b6&style=flat" alt="jattu8602" />
+      <img src="https://komarev.com/ghpvc/?username=liloulap66&label=Profile%20views&color=0e75b6&style=flat" alt="liloulap66" />
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/liloulap66?style=social">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/liloulap66?style=social">
 </div>
